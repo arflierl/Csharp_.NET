@@ -100,7 +100,7 @@ Console.WriteLine(songLyrics.Contains("greetings"));
 
 /* 
 Note we need to be mindful of capitalization when using the Contains method
-We can use the ToLower or ToUpper methods if we want out contains method
+We can use the ToLower or ToUpper methods if we want our contains method
 to work regardless.
 */
 
